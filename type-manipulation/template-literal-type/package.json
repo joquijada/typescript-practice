@@ -1,0 +1,19 @@
+{
+  "name": "@typescript-practice/template-literal-type",
+  "version": "1.0.0",
+  "description": "Study TS type manipulation using template literals",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joquijada/typescript-practice.git"
+  },
+  "author": "Jose Quijada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joquijada/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/joquijada/typescript-practice#readme"
+}
