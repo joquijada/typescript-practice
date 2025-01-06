@@ -1,5 +1,5 @@
 {
-  "name": "@typescript-practice/template-literal-type",
+  "name": "@typescript-practice/type-manipulation",
   "version": "1.0.0",
   "description": "Study TS type manipulation using template literals",
   "main": "index.ts",
